@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="srp" />
+        <module name="1-introduccion-refactorizado" />
+        <module name="introduccion-2-refactorizado" />
+        <module name="isp" />
+        <module name="lsp" />
+        <module name="dip" />
+        <module name="tddexample" />
+        <module name="unit-tests" />
+        <module name="introduccion-2" />
+        <module name="ocp" />
+        <module name="1-introduccion" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
